@@ -1,0 +1,15 @@
+C:\Users\Hp\StudentGradeSystem\bin\Debug\net9.0\StudentGradeSystem.exe
+C:\Users\Hp\StudentGradeSystem\bin\Debug\net9.0\StudentGradeSystem.deps.json
+C:\Users\Hp\StudentGradeSystem\bin\Debug\net9.0\StudentGradeSystem.runtimeconfig.json
+C:\Users\Hp\StudentGradeSystem\bin\Debug\net9.0\StudentGradeSystem.dll
+C:\Users\Hp\StudentGradeSystem\bin\Debug\net9.0\StudentGradeSystem.pdb
+C:\Users\Hp\StudentGradeSystem\obj\Debug\net9.0\StudentGradeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\StudentGradeSystem\obj\Debug\net9.0\StudentGradeSystem.AssemblyInfoInputs.cache
+C:\Users\Hp\StudentGradeSystem\obj\Debug\net9.0\StudentGradeSystem.AssemblyInfo.cs
+C:\Users\Hp\StudentGradeSystem\obj\Debug\net9.0\StudentGradeSystem.csproj.CoreCompileInputs.cache
+C:\Users\Hp\StudentGradeSystem\obj\Debug\net9.0\StudentGradeSystem.sourcelink.json
+C:\Users\Hp\StudentGradeSystem\obj\Debug\net9.0\StudentGradeSystem.dll
+C:\Users\Hp\StudentGradeSystem\obj\Debug\net9.0\refint\StudentGradeSystem.dll
+C:\Users\Hp\StudentGradeSystem\obj\Debug\net9.0\StudentGradeSystem.pdb
+C:\Users\Hp\StudentGradeSystem\obj\Debug\net9.0\StudentGradeSystem.genruntimeconfig.cache
+C:\Users\Hp\StudentGradeSystem\obj\Debug\net9.0\ref\StudentGradeSystem.dll
